@@ -1,3 +1,4 @@
+
 first=float(input("entaer the first number :"))
 print("/")
 print("*")
