@@ -20,5 +20,7 @@ def opration_performed(f_num,sec_num,operator):
 
 
 
+
+
 opration_performed(first,second,operator)
 
