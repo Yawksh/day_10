@@ -2,8 +2,11 @@
 
 first=float(input("entaer the first number :"))
 print("/")
+
 print("*")
+
 print('+')
+
 print('-')
 operator=input('select the operator :')
 second=float(input('eter the second number :'))
